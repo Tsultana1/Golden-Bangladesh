@@ -14,12 +14,17 @@ img {max-width: 100%;
 
 .ahsan-manzil {
 	text-align: left;
-	color: #fff
+	color: #fff;
 }
 
 .Saint-martin's-island {
 	text-align: left;
 	position: right;
+	color: #fff;
+	position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
 
 }
 
