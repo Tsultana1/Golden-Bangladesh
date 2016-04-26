@@ -11,23 +11,11 @@ body {
 
 header {
 background-color: #CCFF99;
+text-decoration-color: #000000;
 padding-top: 30px;
+text-align: center;
+text-decoration-style: underline, italic, bold ;
+
 }
-header h1 {
-	text-align: center;
-}
-nav {
-	background-color: #000000;
-	padding: 30px;
-	text-decoration-style: underline, italic, bold;
-}
-nav ul {
-	list-style-type: none;
-	text-align: center;
-}
-nav ul li {
-	display: inline-block;
-	margin: 0 5px;
-	font-size: 20px;
 
 
