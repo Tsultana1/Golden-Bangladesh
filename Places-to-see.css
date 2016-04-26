@@ -18,6 +18,13 @@ img {max-width: 100%;
 
 }
 
+.star-mosque {
+
+	text-align: left;
+	color: #fff;
+	text-overflow: left
+}
+
 header {
 background-color: #CCFF99;
 color: #000000;
