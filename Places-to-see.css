@@ -12,9 +12,11 @@ body {
 header {
 background-color: #CCFF99;
 color: #000000;
+text-decoration: italic, underline;
+font-weight: bold;
 padding-top: 30px;
 text-align: center;
-text-decoration-style: underline, italic, bold ;
+
 
 }
 
