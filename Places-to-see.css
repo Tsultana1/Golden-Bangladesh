@@ -10,23 +10,11 @@ body {
 }
 
 header {
-background-color: #001E1D;
-padding-top: 10px;
+background-color: #CCFF99;
+padding-top: 30px;
 }
 header h1 {
-	text-align: right;
-}
-nav {
-	background-color: #ccc;
-	padding: 10px;
-}
-nav ul {
-	list-style-type: none;
 	text-align: center;
 }
-nav ul li {
-	display: inline-block;
-	margin: 0 5px;
-	font-size: 20px;
 
 
