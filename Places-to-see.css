@@ -22,7 +22,7 @@ img {max-width: 100%;
 
 	text-align: left;
 	color: #fff;
-	text-overflow: left
+	float: right;
 }
 
 header {
