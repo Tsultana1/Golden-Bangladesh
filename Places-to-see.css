@@ -12,7 +12,11 @@ img {max-width: 100%;
 	margin: 10 auto;
 }
 
-
+.ahsan-manzil {
+	text-align: right;
+	color: #fff
+	
+}
 
 header {
 background-color: #CCFF99;
