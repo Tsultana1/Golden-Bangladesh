@@ -19,10 +19,14 @@ img {max-width: 100%;
 }
 
 .star-mosque {
+	display: inline-block;
+	margin: 0px;
+	vertical-align: right;
 
 	text-align: left;
 	color: #fff;
 	float: right;
+
 }
 
 header {
