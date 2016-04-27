@@ -1,5 +1,5 @@
 body {
-	background-color: #FFCCFF;
+	background-image: url(http://www.joomlavision.com/wp-content/uploads/2012-10-05/674cb_image12.jpeg);
 	color: #000;
 	font-family: Arial;
 }
@@ -45,13 +45,10 @@ text-decoration: bold italic;
 }
 
 header {
-background-color: #CCFF99;
-color: #000000;
-text-decoration: italic, underline;
-font-weight: bold;
-padding-top: 30px;
+background-color: transparent;
+text-decoration: bold italic;
+text-decoration: underline;
 text-align: center;
-
 
 }
 

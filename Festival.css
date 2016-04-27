@@ -44,3 +44,5 @@ li a:hover {
 header {
 background-color: transparent;
 text-decoration: bold italic;
+text-decoration: underline;
+text-align: center;
