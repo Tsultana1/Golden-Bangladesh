@@ -1,6 +1,5 @@
 body {
-	background-color: #ff3333;
-	color: #f2f2f2;
+
 	font-family: Arial;
 	background-image: url(https://i.ytimg.com/vi/SjzVGtGq5I8/maxresdefault.jpg);
 	background-position: center;
@@ -11,9 +10,7 @@ body {
 
 }
 
-.Chicken-Biriyani {
-	text-align: left;
-}
+
 img {max-width: 100%;
  	max-height: 100%;
  }
@@ -29,8 +26,15 @@ nav ul li {
 	font-size: 20px;
 }
 li a:link, li a:active, li a:hover, li a:visited{
-	color: #000;
+	color: #fff;
+	text-decoration: bold italic underline;
+}
+li a:hover {
 	text-decoration: underline;
+	font-weight: bold italic;
+	color:#000;
+
+}
 
 header {
 background-color: transparent;
