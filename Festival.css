@@ -1,0 +1,32 @@
+body {
+
+	font-family: Arial;
+	background-image: url(http://orig04.deviantart.net/b5b2/f/2012/104/e/e/pohela_boishakh_1419__bangla_new_year__02_by_sumonangelo-d4w4hk5.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 10px;
+
+}
+img {max-width: 100%;
+ 	max-height: 100%;
+ }
+
+.container {
+	width: 100%;
+	margin: 90 auto;
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 0 5px;
+	font-size: 20px;
+}
+li a:link, li a:active, li a:hover, li a:visited{
+	color: #000;
+	text-decoration: underline;
+
+header {
+background-color: transparent;
+text-decoration: bold italic;
