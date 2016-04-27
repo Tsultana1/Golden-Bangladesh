@@ -23,6 +23,7 @@ img {max-width: 100%;
 	float: center;
 	margin: 100;
 	color: #fff;
+	text-decoration: underline; 
 }
 nav ul li {
 	display: inline-block;
