@@ -1,0 +1,46 @@
+body {
+
+	font-family: Arial;
+	background-image: url(http://7-themes.com/data_images/out/42/6914345-red-abstract-background.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 10px;
+
+}
+img {max-width: 100%;
+ 	max-height: 100%;
+ }
+
+.container {
+	width: 100%;
+	margin: 90 auto;
+}
+
+.Pohela-Boisakh{
+	text-align: center;
+	float: center;
+	margin: 100;
+	color: #fff;
+	text-decoration: underline; 
+}
+nav ul li {
+	display: inline-block;
+	margin: 0 5px;
+	font-size: 20px;
+}
+li a:link, li a:active, li a:hover, li a:visited{
+	color: #fff;
+	text-decoration: bold italic underline;
+}
+li a:hover {
+	text-decoration: underline;
+	font-weight: bold italic;
+	color:#000;
+
+}
+
+header {
+background-color: transparent;
+text-decoration: bold italic;
